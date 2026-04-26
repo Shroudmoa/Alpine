@@ -867,3 +867,4 @@ exec --no-startup-id feh --bg-fill /path/to/wallpaper.jpg
 exec --no-startup-id flameshot
 exec --no-startup-id sakura
 exec --no-startup-id xrandr --output Virtual-1 --mode 1920x1080
+exec --no-startup-id feh --bg-fill /path/to/wallpaper.jpg
